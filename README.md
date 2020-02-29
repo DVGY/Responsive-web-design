@@ -4,18 +4,15 @@
 
 ### These projects are done under HTML5 CSS3 Coursework on Udemy by Jonas  
 
-### Omnifood website
-#### Single Page, Responsive
+### Omnifood website #### Single Page, Responsive
 ![Alt Text](https://github.com/DVGY/Responsive-web-design/blob/master/demo/website.gif)
 
 
-### Natours website
-#### Single Page, Responsive, Float Layout, Tested for support using @support. 
+### Natours website #### Single Page, Responsive, Float Layout, Tested for support using @support. 
 ![Alt Text](https://github.com/DVGY/Responsive-web-design/blob/master/demo/Natours.gif)
 
 
-### Nexter website
-#### Single Page, Responsive, Grid Layout 
+### Nexter website #### Single Page, Responsive, Grid Layout 
 ![Alt Text](https://github.com/DVGY/Responsive-web-design/blob/master/demo/Nexter.gif)
 
 
